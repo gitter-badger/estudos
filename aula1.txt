@@ -1,0 +1,44 @@
+--------------------- Exercícios de Revisão ---------------------
+
+1)Preencha as lacunas em cada uma das seguintes afirmações:
+a) Um(a)____no corpo de cada método e um(a)______termina o corpo
+de cada método.
+b) A instrução__if__é utilizada para tomar decisões.
+c) _______em um comentário de fim de linha.
+d)_______são reservados para uso pelo Java.
+e) Aplicativos Java iniciam a execução no método_______.
+f) Os métodos_______,________e_________exibem informações em
+uma janela de comando.
+
+2) Escreva instruções para realizar cada uma das tarefas a seguir:
+a) Declare que as variáveis numero, idade e soma serão do tipo int
+b) Solicite que o usuário insira um inteiro
+c) Insira um inteiro e atribua o resultado à variável int value. Suponha que
+variável Scanner input possa ser utilizada para ler um valor digitado pelo usuário.
+d) Se a variável numero não for igual a 7, exiba “Valor inválido”.
+
+3) Identifique e corrija os erros em cada uma das seguintes instruções:
+a)  if ( c < 7 );
+          System.out.println (“ c é menor do que 7”);
+b)  if ( c =>7 )
+         System.out.println (“ c maior ou igual a 7”);
+
+
+4) Escreva declarações, instruções ou comentários que realizam cada uma
+das tarefas a seguir:
+a) Comente que um programa calculará o produto de três inteiros.
+b) Crie um Scanner chamado input que lê valores a partir da entrada padrão
+c) Declare as variáveis x, y, z e result como tipo int.
+d) Solicite que o usuário insira o primeiro inteiro.
+e) Leia o primeiro inteiro digitado e armazene-o na variável x.
+f) Solicite que o usuário insira o segundo inteiro.
+g) Leia o segundo inteiro digitado e armazene-o na variável y.
+h) Solicite que o usuário insira o terceiro inteiro.
+i) Leia o terceiro inteiro digitado e armazene-o na variável z.
+j) Compute o produto dos três e atribua o resultado a variável result.
+k) Exiba a mensagem: “O produto é: “ seguida pelo valor da variável result.
+
+5) Escreva um aplicativo que solicita ao usuário inserir dois inteiros, obtém do usuário esses números e imprime sua soma, produto, diferença e quociente (divisão).
+6) Escreva um aplicativo que solicita ao usuário inserir dois inteiros, obtém do usuário esses números e exiba o número maior seguido pelas palavras “é maior”. Se os números forem iguais, imprime a mensagem “Estes números são iguais”. 
+7) Escreva um aplicativo que insere três inteiros digitados pelo usuário e exibe a soma, média, produto e os números menores e maiores.
+8) Escreva um aplicativo que lê um inteiro, determina e imprime se ele é ímpar ou par.
