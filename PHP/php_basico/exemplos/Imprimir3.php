@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="br">
 <head>
     <meta charset="UTF-8">
     <title>Imprimindo um valor na tela com os comandos echo e print</title>
