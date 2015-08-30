@@ -1,2 +1,2 @@
-//print Hello World in screen with alert !
+// Mostrar um alert com a mensagem Hello World
 window.alert('Hello World');
