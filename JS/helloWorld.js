@@ -1,2 +1,2 @@
-// Mostrar um alert com a mensagem Hello World
-window.alert('Hello World');
+// Mostrar um alert com a mensagem Olá mundo.
+window.alert('Olá mundo!');
